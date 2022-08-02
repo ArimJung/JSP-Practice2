@@ -2,5 +2,5 @@
     pageEncoding="UTF-8"%>
 
 <jsp:forward page="end.jsp">
-   <jsp:param value="msg" name="apple"/>
+   <jsp:param name="msg" value="apple"/>
 </jsp:forward>
